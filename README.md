@@ -11,9 +11,7 @@ This project is about creating and developing a database for the business for
 
 Both product sales analysis and product refund analysis were done in SQL.
 
-Edgewood_sample_data file contains all sample data for Edgewood-Inc
-ForeignKey_constraints file creates different for
 
-Edgewood_sample_data file contains all sample data for Edgewood-Inc
-ForeignKey_constraints file creates different foreign key constraints to different tables to create relational database
-Edgewood_Analysis_Queries file consists of different queries to analyze overall performance of the business
+-Edgewood_sample_data file contains all sample data for Edgewood-Inc
+-ForeignKey_constraints file creates different foreign key constraints to different tables to create relational database
+-Edgewood_Analysis_Queries file consists of different queries to analyze overall performance of the business
