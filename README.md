@@ -1,7 +1,7 @@
 # Edgewood-Inc
 Personal Project
 
-Edgewood-Inc is an e-commerce business, selling different products from office supplies to furniture.
+Edgewood-Inc is an e-commerce business, selling different products from office supplies to furnitures.
 
 This project is about creating and developing a database for the business for 
 -monitoring and analyzing sales for each month / for the year
