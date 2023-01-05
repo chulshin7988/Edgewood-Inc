@@ -13,6 +13,7 @@ This project is about creating and developing a database for the business for
 
 -analyzing product refund rates for the refund reasons and figuring out where the business might have the problems to address
 
+
 Both product sales analysis and product refund analysis were done in SQL.
 
 Edgewood_sample_data file contains all sample data for Edgewood-Inc
