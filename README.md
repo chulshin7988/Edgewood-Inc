@@ -6,8 +6,11 @@ Edgewood-Inc is an e-commerce business, selling different products from office s
 This project is about creating and developing a database for the business for 
 
 -monitoring and analyzing sales for each month / for the year
+
 -control quality of products based on how the business is selling each product
+
 -analyzing product sales trends to understand better about the customers
+
 -analyzing product refund rates for the refund reasons and figuring out where the business might have the problems to address
 
 Both product sales analysis and product refund analysis were done in SQL.
